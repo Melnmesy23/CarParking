@@ -1,0 +1,10 @@
+
+Update 3.0:
+ - New garage and parking model
+ - New levels
+ - New car
+ - Improved car controller
+ - Fixed bugs    
+ - Improved UI
+ - Added new color grading post effect
+ - improved in gae settings menu

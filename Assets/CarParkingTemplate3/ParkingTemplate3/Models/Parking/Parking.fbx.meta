@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 27000dc73ed19ca47a3be5c77f92dda6
+timeCreated: 1512145561
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Base1
+    100004: Base2
+    100006: Base3
+    100008: Base4
+    100010: Base5
+    100012: Bimp
+    100014: Bimp1
+    100016: Bimp2
+    100018: Bimp3
+    100020: Bimp4
+    100022: Body
+    100024: Body 1
+    100026: Brake
+    100028: Brake1
+    100030: Brake2
+    100032: Brake3
+    100034: Brake4
+    100036: Brakes
+    100038: Bumps
+    100040: Ceiling
+    100042: Ceiling1
+    100044: Ceiling2
+    100046: Ceiling3
+    100048: Ceilings
+    100050: Center
+    100052: Center1
+    100054: Center2
+    100056: Center3
+    100058: Center4
+    100060: Column
+    100062: Column1
+    100064: Column2
+    100066: Column3
+    100068: Columns
+    100070: Elevator
+    100072: Handle
+    100074: Handle 1
+    100076: //RootNode
+    100078: Prop
+    100080: Prop1
+    100082: Prop1 1
+    100084: Prop1 2
+    100086: Prop1 3
+    100088: Prop1 4
+    100090: Prop10
+    100092: Prop10 1
+    100094: Prop10 2
+    100096: Prop10 3
+    100098: Prop10 4
+    100100: Prop11
+    100102: Prop11 1
+    100104: Prop11 2
+    100106: Prop11 3
+    100108: Prop11 4
+    100110: Prop12
+    100112: Prop13
+    100114: Prop14
+    100116: Prop15
+    100118: Prop2
+    100120: Prop2 1
+    100122: Prop2 2
+    100124: Prop2 3
+    100126: Prop2 4
+    100128: Prop3
+    100130: Prop3 1
+    100132: Prop3 2
+    100134: Prop3 3
+    100136: Prop3 4
+    100138: Prop4
+    100140: Prop4 1
+    100142: Prop4 2
+    100144: Prop4 3
+    100146: Prop4 4
+    100148: Prop5
+    100150: Prop5 1
+    100152: Prop5 2
+    100154: Prop5 3
+    100156: Prop5 4
+    100158: Prop6
+    100160: Prop6 1
+    100162: Prop6 2
+    100164: Prop6 3
+    100166: Prop6 4
+    100168: Prop7
+    100170: Prop7 1
+    100172: Prop7 2
+    100174: Prop7 3
+    100176: Prop7 4
+    100178: Prop8
+    100180: Prop8 1
+    100182: Prop8 2
+    100184: Prop8 3
+    100186: Prop8 4
+    100188: Prop9
+    100190: Prop9 1
+    100192: Prop9 2
+    100194: Prop9 3
+    100196: Prop9 4
+    100198: Props
+    100200: Ramp
+    100202: ramp_story1
+    100204: ramp_story2
+    100206: ramp_story3
+    100208: ramp_story4
+    100210: Road_Blocker
+    100212: Road_Blockers
+    100214: Security
+    100216: Start_Blocker
+    100218: Start_Blocker1
+    100220: Start_Floor
+    100222: Welcome
+    400000: Base
+    400002: Base1
+    400004: Base2
+    400006: Base3
+    400008: Base4
+    400010: Base5
+    400012: Bimp
+    400014: Bimp1
+    400016: Bimp2
+    400018: Bimp3
+    400020: Bimp4
+    400022: Body
+    400024: Body 1
+    400026: Brake
+    400028: Brake1
+    400030: Brake2
+    400032: Brake3
+    400034: Brake4
+    400036: Brakes
+    400038: Bumps
+    400040: Ceiling
+    400042: Ceiling1
+    400044: Ceiling2
+    400046: Ceiling3
+    400048: Ceilings
+    400050: Center
+    400052: Center1
+    400054: Center2
+    400056: Center3
+    400058: Center4
+    400060: Column
+    400062: Column1
+    400064: Column2
+    400066: Column3
+    400068: Columns
+    400070: Elevator
+    400072: Handle
+    400074: Handle 1
+    400076: //RootNode
+    400078: Prop
+    400080: Prop1
+    400082: Prop1 1
+    400084: Prop1 2
+    400086: Prop1 3
+    400088: Prop1 4
+    400090: Prop10
+    400092: Prop10 1
+    400094: Prop10 2
+    400096: Prop10 3
+    400098: Prop10 4
+    400100: Prop11
+    400102: Prop11 1
+    400104: Prop11 2
+    400106: Prop11 3
+    400108: Prop11 4
+    400110: Prop12
+    400112: Prop13
+    400114: Prop14
+    400116: Prop15
+    400118: Prop2
+    400120: Prop2 1
+    400122: Prop2 2
+    400124: Prop2 3
+    400126: Prop2 4
+    400128: Prop3
+    400130: Prop3 1
+    400132: Prop3 2
+    400134: Prop3 3
+    400136: Prop3 4
+    400138: Prop4
+    400140: Prop4 1
+    400142: Prop4 2
+    400144: Prop4 3
+    400146: Prop4 4
+    400148: Prop5
+    400150: Prop5 1
+    400152: Prop5 2
+    400154: Prop5 3
+    400156: Prop5 4
+    400158: Prop6
+    400160: Prop6 1
+    400162: Prop6 2
+    400164: Prop6 3
+    400166: Prop6 4
+    400168: Prop7
+    400170: Prop7 1
+    400172: Prop7 2
+    400174: Prop7 3
+    400176: Prop7 4
+    400178: Prop8
+    400180: Prop8 1
+    400182: Prop8 2
+    400184: Prop8 3
+    400186: Prop8 4
+    400188: Prop9
+    400190: Prop9 1
+    400192: Prop9 2
+    400194: Prop9 3
+    400196: Prop9 4
+    400198: Props
+    400200: Ramp
+    400202: ramp_story1
+    400204: ramp_story2
+    400206: ramp_story3
+    400208: ramp_story4
+    400210: Road_Blocker
+    400212: Road_Blockers
+    400214: Security
+    400216: Start_Blocker
+    400218: Start_Blocker1
+    400220: Start_Floor
+    400222: Welcome
+    2300000: Base1
+    2300002: Base2
+    2300004: Base3
+    2300006: Base4
+    2300008: Base5
+    2300010: Bimp
+    2300012: Bimp1
+    2300014: Bimp2
+    2300016: Bimp3
+    2300018: Bimp4
+    2300020: Body
+    2300022: Body 1
+    2300024: Brake
+    2300026: Brake1
+    2300028: Brake2
+    2300030: Brake3
+    2300032: Brake4
+    2300034: Ceiling
+    2300036: Ceiling1
+    2300038: Ceiling2
+    2300040: Ceiling3
+    2300042: Center
+    2300044: Center1
+    2300046: Center2
+    2300048: Center3
+    2300050: Center4
+    2300052: Column
+    2300054: Column1
+    2300056: Column2
+    2300058: Column3
+    2300060: Handle
+    2300062: Handle 1
+    2300064: Prop
+    2300066: Prop1
+    2300068: Prop1 1
+    2300070: Prop1 2
+    2300072: Prop1 3
+    2300074: Prop1 4
+    2300076: Prop10
+    2300078: Prop10 1
+    2300080: Prop10 2
+    2300082: Prop10 3
+    2300084: Prop10 4
+    2300086: Prop11
+    2300088: Prop11 1
+    2300090: Prop11 2
+    2300092: Prop11 3
+    2300094: Prop11 4
+    2300096: Prop12
+    2300098: Prop13
+    2300100: Prop14
+    2300102: Prop15
+    2300104: Prop2
+    2300106: Prop2 1
+    2300108: Prop2 2
+    2300110: Prop2 3
+    2300112: Prop2 4
+    2300114: Prop3
+    2300116: Prop3 1
+    2300118: Prop3 2
+    2300120: Prop3 3
+    2300122: Prop3 4
+    2300124: Prop4
+    2300126: Prop4 1
+    2300128: Prop4 2
+    2300130: Prop4 3
+    2300132: Prop4 4
+    2300134: Prop5
+    2300136: Prop5 1
+    2300138: Prop5 2
+    2300140: Prop5 3
+    2300142: Prop5 4
+    2300144: Prop6
+    2300146: Prop6 1
+    2300148: Prop6 2
+    2300150: Prop6 3
+    2300152: Prop6 4
+    2300154: Prop7
+    2300156: Prop7 1
+    2300158: Prop7 2
+    2300160: Prop7 3
+    2300162: Prop7 4
+    2300164: Prop8
+    2300166: Prop8 1
+    2300168: Prop8 2
+    2300170: Prop8 3
+    2300172: Prop8 4
+    2300174: Prop9
+    2300176: Prop9 1
+    2300178: Prop9 2
+    2300180: Prop9 3
+    2300182: Prop9 4
+    2300184: ramp_story1
+    2300186: ramp_story2
+    2300188: ramp_story3
+    2300190: ramp_story4
+    2300192: Road_Blocker
+    2300194: Road_Blockers
+    2300196: Security
+    2300198: Start_Floor
+    2300200: Welcome
+    3300000: Base1
+    3300002: Base2
+    3300004: Base3
+    3300006: Base4
+    3300008: Base5
+    3300010: Bimp
+    3300012: Bimp1
+    3300014: Bimp2
+    3300016: Bimp3
+    3300018: Bimp4
+    3300020: Body
+    3300022: Body 1
+    3300024: Brake
+    3300026: Brake1
+    3300028: Brake2
+    3300030: Brake3
+    3300032: Brake4
+    3300034: Ceiling
+    3300036: Ceiling1
+    3300038: Ceiling2
+    3300040: Ceiling3
+    3300042: Center
+    3300044: Center1
+    3300046: Center2
+    3300048: Center3
+    3300050: Center4
+    3300052: Column
+    3300054: Column1
+    3300056: Column2
+    3300058: Column3
+    3300060: Handle
+    3300062: Handle 1
+    3300064: Prop
+    3300066: Prop1
+    3300068: Prop1 1
+    3300070: Prop1 2
+    3300072: Prop1 3
+    3300074: Prop1 4
+    3300076: Prop10
+    3300078: Prop10 1
+    3300080: Prop10 2
+    3300082: Prop10 3
+    3300084: Prop10 4
+    3300086: Prop11
+    3300088: Prop11 1
+    3300090: Prop11 2
+    3300092: Prop11 3
+    3300094: Prop11 4
+    3300096: Prop12
+    3300098: Prop13
+    3300100: Prop14
+    3300102: Prop15
+    3300104: Prop2
+    3300106: Prop2 1
+    3300108: Prop2 2
+    3300110: Prop2 3
+    3300112: Prop2 4
+    3300114: Prop3
+    3300116: Prop3 1
+    3300118: Prop3 2
+    3300120: Prop3 3
+    3300122: Prop3 4
+    3300124: Prop4
+    3300126: Prop4 1
+    3300128: Prop4 2
+    3300130: Prop4 3
+    3300132: Prop4 4
+    3300134: Prop5
+    3300136: Prop5 1
+    3300138: Prop5 2
+    3300140: Prop5 3
+    3300142: Prop5 4
+    3300144: Prop6
+    3300146: Prop6 1
+    3300148: Prop6 2
+    3300150: Prop6 3
+    3300152: Prop6 4
+    3300154: Prop7
+    3300156: Prop7 1
+    3300158: Prop7 2
+    3300160: Prop7 3
+    3300162: Prop7 4
+    3300164: Prop8
+    3300166: Prop8 1
+    3300168: Prop8 2
+    3300170: Prop8 3
+    3300172: Prop8 4
+    3300174: Prop9
+    3300176: Prop9 1
+    3300178: Prop9 2
+    3300180: Prop9 3
+    3300182: Prop9 4
+    3300184: ramp_story1
+    3300186: ramp_story2
+    3300188: ramp_story3
+    3300190: ramp_story4
+    3300192: Road_Blocker
+    3300194: Road_Blockers
+    3300196: Security
+    3300198: Start_Floor
+    3300200: Welcome
+    4300000: Handle
+    4300002: Body
+    4300004: Handle
+    4300006: Body
+    4300008: Ceiling
+    4300010: Ceiling1
+    4300012: Ceiling2
+    4300014: Ceiling3
+    4300016: Brake
+    4300018: Brake1
+    4300020: Brake2
+    4300022: Brake3
+    4300024: Brake4
+    4300026: Bimp
+    4300028: Bimp1
+    4300030: Bimp2
+    4300032: Bimp3
+    4300034: Bimp4
+    4300036: Center4
+    4300038: Center3
+    4300040: Center2
+    4300042: Center1
+    4300044: Center
+    4300046: Column3
+    4300048: Column2
+    4300050: Column1
+    4300052: Column
+    4300054: Prop15
+    4300056: Prop11
+    4300058: Prop10
+    4300060: Prop9
+    4300062: Prop8
+    4300064: Prop7
+    4300066: Prop6
+    4300068: Prop5
+    4300070: Prop4
+    4300072: Prop3
+    4300074: Prop2
+    4300076: Prop1
+    4300078: Prop14
+    4300080: Prop11
+    4300082: Prop10
+    4300084: Prop9
+    4300086: Prop8
+    4300088: Prop7
+    4300090: Prop6
+    4300092: Prop5
+    4300094: Prop4
+    4300096: Prop3
+    4300098: Prop2
+    4300100: Prop1
+    4300102: Prop13
+    4300104: Prop11
+    4300106: Prop10
+    4300108: Prop9
+    4300110: Prop8
+    4300112: Prop7
+    4300114: Prop6
+    4300116: Prop5
+    4300118: Prop4
+    4300120: Prop3
+    4300122: Prop2
+    4300124: Prop1
+    4300126: Prop12
+    4300128: Prop11
+    4300130: Prop10
+    4300132: Prop9
+    4300134: Prop8
+    4300136: Prop7
+    4300138: Prop6
+    4300140: Prop5
+    4300142: Prop4
+    4300144: Prop3
+    4300146: Prop2
+    4300148: Prop1
+    4300150: Prop
+    4300152: Prop11
+    4300154: Prop10
+    4300156: Prop9
+    4300158: Prop8
+    4300160: Prop7
+    4300162: Prop6
+    4300164: Prop5
+    4300166: Prop4
+    4300168: Prop3
+    4300170: Prop2
+    4300172: Prop1
+    4300174: Road_Blocker
+    4300176: ramp_story4
+    4300178: ramp_story3
+    4300180: ramp_story2
+    4300182: ramp_story1
+    4300184: Base1
+    4300186: Base2
+    4300188: Base3
+    4300190: Base4
+    4300192: Base5
+    4300194: Welcome
+    4300196: Security
+    4300198: Road_Blockers
+    4300200: Start_Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

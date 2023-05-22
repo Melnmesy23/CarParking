@@ -1,0 +1,10 @@
+Keyboard keys:
+
+C = Change camera
+Space = Hand brake
+H = Horn
+W = Throttle
+S   Hand brake
+A - D = Move left and right
+Escape = Pause
+R = Toggle reversing

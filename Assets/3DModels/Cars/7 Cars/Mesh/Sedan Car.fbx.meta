@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: d7263e2f26cb2334a8b0af953d8cd3d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Brake_FL
+    100004: Brake_FR
+    100006: Brake_RL
+    100008: Brake_RR
+    100010: Col_01
+    100012: Col_02
+    100014: Interior
+    100016: Needle_RPM
+    100018: Needle_Speed
+    100020: //RootNode
+    100022: Steering_Wheel
+    100024: Wheel_FL
+    100026: Wheel_FR
+    100028: Wheel_RL
+    100030: Wheel_RR
+    400000: Body
+    400002: Brake_FL
+    400004: Brake_FR
+    400006: Brake_RL
+    400008: Brake_RR
+    400010: Col_01
+    400012: Col_02
+    400014: Interior
+    400016: Needle_RPM
+    400018: Needle_Speed
+    400020: //RootNode
+    400022: Steering_Wheel
+    400024: Wheel_FL
+    400026: Wheel_FR
+    400028: Wheel_RL
+    400030: Wheel_RR
+    2100000: No Name
+    2100002: chrome
+    2100004: glass
+    2100006: window_glass
+    2100008: black_bump
+    2100010: grid
+    2100012: black
+    2100014: mirror
+    2100016: body
+    2100018: red_glass
+    2100020: lights
+    2100022: window_darkglass
+    2100024: Bottom
+    2100026: exhaust
+    2100028: rubber
+    2100030: wheels
+    2100032: interior
+    2100034: rim
+    2300000: Body
+    2300002: Brake_FL
+    2300004: Brake_FR
+    2300006: Brake_RL
+    2300008: Brake_RR
+    2300010: Col_01
+    2300012: Col_02
+    2300014: Interior
+    2300016: Needle_RPM
+    2300018: Needle_Speed
+    2300020: Steering_Wheel
+    2300022: Wheel_FL
+    2300024: Wheel_FR
+    2300026: Wheel_RL
+    2300028: Wheel_RR
+    3300000: Body
+    3300002: Brake_FL
+    3300004: Brake_FR
+    3300006: Brake_RL
+    3300008: Brake_RR
+    3300010: Col_01
+    3300012: Col_02
+    3300014: Interior
+    3300016: Needle_RPM
+    3300018: Needle_Speed
+    3300020: Steering_Wheel
+    3300022: Wheel_FL
+    3300024: Wheel_FR
+    3300026: Wheel_RL
+    3300028: Wheel_RR
+    4300000: Col_01
+    4300002: Col_02
+    4300004: Body
+    4300006: Brake_FL
+    4300008: Brake_FR
+    4300010: Brake_RL
+    4300012: Brake_RR
+    4300014: Interior
+    4300016: Needle_RPM
+    4300018: Needle_Speed
+    4300020: Steering_Wheel
+    4300022: Wheel_FL
+    4300024: Wheel_RL
+    4300026: Wheel_FR
+    4300028: Wheel_RR
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: a91bc7f5eaab8da46a18212d2e1ea942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bb7b3e69b567243458e1a995e77e8685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 0427dbbf2995b9c4fa6aee4020141a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_bump
+    second: {fileID: 2100000, guid: 129bc6a224ddbee478025d73bb87a12c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: e20b34560127b274d817671beec215db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 0e57195f86bddd74f888aa893b0755ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exhaust
+    second: {fileID: 2100000, guid: 9fb0df4703859df4da0770da03643529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 69e2dae9693bb984eae37430e86f785f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grid
+    second: {fileID: 2100000, guid: 2aded38b5269a6240a380ba72885a25e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: e91020105db4a1c40a42c539d091a2d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: c464ac5de0098014990865f108377f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 76aaea5f43d2f6d4cae921f27310c208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 5fe5da6d0a2e13d4082323eb5a612c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: dd51381f504835c43a588b0f92e987cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: 11e71845584feba469c427225f416b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels
+    second: {fileID: 2100000, guid: 16e04b21c6dd0ce489c39bb75acc53f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_darkglass
+    second: {fileID: 2100000, guid: d3f484505a5a573419cd392b3a697711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: 3e73e1e7171b44a499002041117f2bc7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

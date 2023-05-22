@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b50c23b97d267e843a0f60e1d3bcdaa6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IBM Plex Sans Devanagari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5069245fcfb54f4ebfbd4563379c312, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

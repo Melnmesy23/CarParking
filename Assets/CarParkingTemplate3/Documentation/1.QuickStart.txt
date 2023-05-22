@@ -1,0 +1,38 @@
+
+After importing package to any unit version (has been tested in 5.3+ ~ 5.5+), you need to pass below teps:
+
+First open Garage scene and run the game. After running the game press "H" ket to dellete all setttings from player prefs.
+Now you can start game from Start scene.
+
+1. hello
+
+2. Open unity Tag Manager window. if tags list is empty , you need to do below steps
+- Create a new tag with "Item" name
+- Save project and reopen your project
+- Now all tags imported successfully in tag manger
+
+3. If you want to switch to mobile or pc inputs, First open Day_Car scene and select Canvas game object.
+ Now find InputSystem component and select input  mode as keyboard or mobile
+
+ 4. Can i publish without re skin?
+	Yes
+
+  5. can i require a new feature for this kit?
+  No. i don't have free time to add your favorite option
+
+  6. Can i refund this asset ?
+  No
+
+  7. Can i share it for my other friends ?
+ 	 No
+
+Have a new question ?
+  Contact me at : aliyeredon@gmail.com
+
+  I'm working on new game templates and may i couldn't answer simple questions.
+
+  Tutorials playlist:
+
+ https://www.youtube.com/playlist?list=PLVXvfvDWvto17VVNO8q40c8EAKNCkk4ji
+
+  note : Don't forget to add Read-Write permission into android manifest to load car plate from sd card   

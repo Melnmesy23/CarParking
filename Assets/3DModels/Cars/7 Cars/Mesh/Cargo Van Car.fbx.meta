@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 9a13453132b656642b535fd0cd666152
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Brake_FL
+    100004: Brake_FR
+    100006: Brake_RL
+    100008: Brake_RR
+    100010: //RootNode
+    100012: Col
+    100014: Interior
+    100016: Needle_RPM
+    100018: Needle_Speed
+    100020: Steering_Wheel
+    100022: Wheel_FL
+    100024: Wheel_FR
+    100026: Wheel_RL
+    100028: Wheel_RR
+    400000: Body
+    400002: Brake_FL
+    400004: Brake_FR
+    400006: Brake_RL
+    400008: Brake_RR
+    400010: //RootNode
+    400012: Col
+    400014: Interior
+    400016: Needle_RPM
+    400018: Needle_Speed
+    400020: Steering_Wheel
+    400022: Wheel_FL
+    400024: Wheel_FR
+    400026: Wheel_RL
+    400028: Wheel_RR
+    2100000: glass
+    2100002: window_glass
+    2100004: black
+    2100006: chrome
+    2100008: grid
+    2100010: glass_bumpy
+    2100012: mirror
+    2100014: rubber
+    2100016: red_glass
+    2100018: Bottom
+    2100020: exhaust
+    2100022: lights
+    2100024: body
+    2100026: No Name
+    2100028: wheels
+    2100030: rim
+    2100032: interior
+    2300000: Body
+    2300002: Brake_FL
+    2300004: Brake_FR
+    2300006: Brake_RL
+    2300008: Brake_RR
+    2300010: Col
+    2300012: Interior
+    2300014: Needle_RPM
+    2300016: Needle_Speed
+    2300018: Steering_Wheel
+    2300020: Wheel_FL
+    2300022: Wheel_FR
+    2300024: Wheel_RL
+    2300026: Wheel_RR
+    3300000: Body
+    3300002: Brake_FL
+    3300004: Brake_FR
+    3300006: Brake_RL
+    3300008: Brake_RR
+    3300010: Col
+    3300012: Interior
+    3300014: Needle_RPM
+    3300016: Needle_Speed
+    3300018: Steering_Wheel
+    3300020: Wheel_FL
+    3300022: Wheel_FR
+    3300024: Wheel_RL
+    3300026: Wheel_RR
+    4300000: Body
+    4300002: Col
+    4300004: Brake_FR
+    4300006: Brake_RL
+    4300008: Brake_RR
+    4300010: Wheel_FL
+    4300012: Steering_Wheel
+    4300014: Wheel_RL
+    4300016: Brake_FL
+    4300018: Wheel_FR
+    4300020: Wheel_RR
+    4300022: Interior
+    4300024: Needle_RPM
+    4300026: Needle_Speed
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: a91bc7f5eaab8da46a18212d2e1ea942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e24023f8c3097c949a991b39290f22de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 0427dbbf2995b9c4fa6aee4020141a80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 3e0f7a6c84d5f504b9398144867d1442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 0e57195f86bddd74f888aa893b0755ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: exhaust
+    second: {fileID: 2100000, guid: 9fb0df4703859df4da0770da03643529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 69e2dae9693bb984eae37430e86f785f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_bumpy
+    second: {fileID: 2100000, guid: eb1be29a7bf1e9940935a476859d2a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grid
+    second: {fileID: 2100000, guid: 07d0a6902b0fbd447a49844fc2ba58cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: 220defec9c30b724196dc9769c78aca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: f0acb101fd6ad93479509a907b652fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 76aaea5f43d2f6d4cae921f27310c208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_glass
+    second: {fileID: 2100000, guid: 5fe5da6d0a2e13d4082323eb5a612c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: dd51381f504835c43a588b0f92e987cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: 11e71845584feba469c427225f416b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels
+    second: {fileID: 2100000, guid: 16e04b21c6dd0ce489c39bb75acc53f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: 3e73e1e7171b44a499002041117f2bc7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
